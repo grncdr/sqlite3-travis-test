@@ -1,0 +1,13 @@
+{
+  "name": "sqlite3-travis-test",
+  "version": "0.0.0",
+  "description": "This repo is simply testing whether node-sqlite3 and Travis-CI work together at all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
